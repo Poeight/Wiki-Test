@@ -1,0 +1,1 @@
+(self.webpackChunkwiki_test=self.webpackChunkwiki_test||[]).push([[525],{5525:()=>{}}]);
