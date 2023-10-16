@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        就这点配置有啥难的.
+        就这点配置有啥难的11.
       </>
     ),
   },

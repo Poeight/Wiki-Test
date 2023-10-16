@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://poeight.github.io',
+  url: 'https://Poeight.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Wiki-Test/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'poeight', // Usually your GitHub org/user name.
+  organizationName: 'Poeight', // Usually your GitHub org/user name.
   projectName: 'Wiki-Test', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/poeight/Wiki-Test/blob/main'
+            'https://github.com/Poeight/Wiki-Test/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/poeight/Wiki-Test',
+            href: 'https://github.com/Poeight/Wiki-Test',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/poeight/Wiki-Test',
+                href: 'https://github.com/Poeight/Wiki-Test',
               },
             ],
           },
